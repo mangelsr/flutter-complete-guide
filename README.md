@@ -23,4 +23,4 @@ Some topics reviewed:
 
 
 ## Course link
-https://www.udemy.com/courseflutter-ios-android-fernando-herrera/
+https://www.udemy.com/course/flutter-ios-android-fernando-herrera/
